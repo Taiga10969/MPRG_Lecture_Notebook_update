@@ -1,0 +1,2 @@
+# MPRG_Lecture_Notebook_update
+MPRGのLecture Notebookのアップデート用のプロジェクト

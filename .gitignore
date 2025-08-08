@@ -1,0 +1,7 @@
+./vlm/annotations/
+./vlm/train2017/
+./vlm/val2017/
+./vlm/train2017_small/
+./vlm/val2017_small/
+./vlm/train_small.json
+./vlm/val_small.json
